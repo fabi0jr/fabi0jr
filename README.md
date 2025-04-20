@@ -5,7 +5,7 @@
 ### 👋 Olá! Eu sou o Fábio
 
 <p align="left">
-<br>🎓 Estudante de Engenharia da Computação  <br>💡 Apaixonado por resolver problemas e automatizar processos  <br>🐍 Trabalho com Python (Selenium, Pandas, CustomTkinter, Django)  <br>⚛️ Estudando JavaScript e React  <br>🚀 Sempre envolvido em projetos e buscando aprender mais  <br>🎮 Curto jogar videogame e sonho em fazer uma pós no exterior</p>
+<br>🎓 Estudante de Engenharia da Computação  <br>💡 Apaixonado por resolver problemas e automatizar processos  <br>🐍 Trabalho com Python (Selenium, Pandas, CustomTkinter, Django)  <br>⚛️ Estudando JavaScript e React  <br>🚀 Sempre envolvido em projetos e buscando aprender mais  <br>🎮 Curto jogar videogame</p>
 
 ###
 
