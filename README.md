@@ -8,14 +8,6 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, JavaScript, TypeScript.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Linux (Ubuntu), Git, Docker.</strong>
-</p>
-
-<p align="left">
   💌 Sinta-se à vontade para se conectar comigo para trocarmos uma ideia sobre dev, café ou o próximo grande projeto! ⤵️
 </p>
 
