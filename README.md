@@ -3,8 +3,6 @@
 <p align="left">  
   Olá! Sou o <strong>Fabio Junior</strong>. <br>
   Atualmente sou Desenvolvedor Júnior com foco em <strong>Back-end</strong>.
-  <br><br>
-  No momento, estou atuando profissionalmente no mercado como desenvolvedor Backend com foco em IA
 </p>
 
 <p align="left">
