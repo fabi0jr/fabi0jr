@@ -2,7 +2,7 @@
 
 <p align="left">  
   Olá! Sou o <strong>Fabio Junior</strong>. <br>
-  Atualmente sou Desenvolvedor Júnior com foco em <strong>Back-end</strong>.
+  Atualmente sou Desenvolvedor com foco em <strong>Back-end</strong>.
 </p>
 
 <p align="left">
